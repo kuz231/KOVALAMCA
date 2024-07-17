@@ -1,3 +1,3 @@
 # KOVALAMCA
 
-Bu oyun dosyası Kuzeey Girgin tarafından PythonePro kursu kapsamında ders etkinliği olarak gerçekleştirlmiştir.
+Bu oyun dosyası Kuzey Girgin tarafından PythonePro kursu kapsamında ders etkinliği olarak gerçekleştirlmiştir.
